@@ -22,6 +22,10 @@
 	<?php wp_head(); ?>
 </head>
 <body>
-	<header class="header">
-		<!-- Vous pouvez mettre ici toutes les infos que vous voulez retrouver dans le header de toutes vos pages  -->
-	</header>
+  <header class="header">
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Mon site</title>title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
+  </header>
